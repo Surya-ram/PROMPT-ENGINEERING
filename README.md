@@ -1,6 +1,6 @@
-# PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Reg No:
-Date:9-04-2025
+# EXP 1 : Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Reg No:212222040167
+# Name:Surya R
 # Procedure:
 
 1.Define what Large Language Models (LLMs) are and explain their role in natural language understanding and generation.
@@ -50,7 +50,6 @@ Examples of LLMs
 
 LLMs take a complex approach that involves multiple components. At the foundational layer, an LLM needs to be trained on a large volume -- sometimes referred to as a corpus -- of data that is typically petabytes in size. The training can take multiple steps, usually starting with an unsupervised learning approach. In that approach, the model is trained on unstructured data and unlabeled data. The benefit of training on unlabeled data is that there is often vastly more data available. At this stage, the model begins to derive relationships between different words and concepts.The next step for some LLMs is training and fine-tuning with a form of self-supervised learning. Here, some data labeling has occurred, assisting the model to more accurately identify different concepts.Next, the LLM undertakes deep learning as it goes through the transformer neural network process. The transformer model architecture enables the LLM to understand and recognize the relationships and connections between words and concepts using a self-attention mechanism. That mechanism is able to assign a score, commonly referred to as a weight, to a given item -- called a token -- in order to determine the relationship.Once an LLM has been trained, a base exists on which the AI can be used for practical purposes. By querying the LLM with a prompt, the AI model inference can generate a response, which could be an answer to a question, newly generated text, summarized text or a sentiment analysis report.
 
-![430850059-fa9f2d28-9252-4ed3-9d9f-5ef8bc88dcd3](https://github.com/user-attachments/assets/9ddf833a-4f68-4cd0-8ba8-dc27a4c7356a)
 
 # What are large language models used for?
 LLMs have become increasingly popular because they have broad applicability for a range of NLP tasks, including the following: Text generation. The ability to generate text on any topic that the LLM has been trained on is a primary use case. Translation. For LLMs trained on multiple languages, the ability to translate from one language to another is a common feature. Content summary. Summarizing blocks or multiple pages of text is a useful function of LLMs. Rewriting content. Rewriting a section of text is another capability. Classification and categorization. An LLM is able to classify and categorize content. Sentiment analysis. Most LLMs can be used for sentiment analysis to help users to better understand the intent of a piece of content or a particular response. Conversational AI and chatbots. LLMs can enable a conversation with a user in a way that is typically more natural than older generations of AI technologies. Among the most common uses for conversational AI is through a chatbot, which can exist in any number of different forms where a user interacts in a query-and-response model. The most widely used LLM-based AI chatbot is ChatGPT, which is developed by OpenAI. ChatGPT currently is based on the GPT-3.5 model, although paying subscribers can use the newer GPT-4 LLM.
