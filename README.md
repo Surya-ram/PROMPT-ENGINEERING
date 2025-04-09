@@ -1,10 +1,4 @@
 # EXP 1 : Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Name:Surya R
-Reg No:212222040167
-Department:BE CSE
-
-
-
 
 ## Topic 1: Overview of Large Language Models (LLMs)
 
